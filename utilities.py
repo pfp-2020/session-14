@@ -2,10 +2,13 @@ import time
 
 i = 0
 
-while True:
+#while True:
 
-    time.sleep(0.5)
+#    time.sleep(0.5)
 
-    print(i)
+#    print(i)
 
-    i += 1
+#    i += 1
+
+
+name = "pepe"
